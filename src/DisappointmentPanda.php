@@ -21,4 +21,4 @@ class DisappointmentPanda {
    public function addAdvice($comment){
        $this->advice[] = $comment;
    }
-}
+} //
